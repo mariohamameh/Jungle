@@ -1,8 +1,11 @@
 .cart-show {
   tr div {
     width: max-content;
+    th div {
+      color: rgba(0, 130, 29, 1);
+    }
   }
-
+  
   button.stripe-button-el span {
     border-radius: 0.25em;
     border: 0.1em solid rgba(0, 130, 29, 0.8);

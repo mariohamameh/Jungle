@@ -17,6 +17,7 @@ body {
   // padding-top: 70px;
   font-size: 20px;
   font-family: "Source Sans Pro", sans-serif;
+  color: rgba(0, 130, 29, 1);
 }
 h1,
 h2,
@@ -89,7 +90,12 @@ form.button_to {
     font-size: 1.4em;
   }
 }
-
+td {
+  color: rgba(0, 130, 29, 1);
+}
+th {
+  color: rgba(0, 130, 29, 1);
+}
 .sticky-nav {
   background: green;
   position: sticky;
